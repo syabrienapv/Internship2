@@ -10,9 +10,6 @@ import os
 matrix_path = os.getcwd() + '\\main\\datas\\resep_sparse_matrix.npz'
 dataset_path = os.getcwd() + '\\main\\datas\\data.csv'
 
-
-items = []
-
 def read_sparse():
     sparse_matrix = sparse.load_npz(matrix_path)
     return sparse_matrix
@@ -43,11 +40,12 @@ def user_similarity():
     return user_sim_dataset
 
 def top_item(item_title):
+    items = []
     item_sim_dataset = item_similarity()
     count = 1
-    print('item yang sama dengan {} include:\n'.format(item_title))
+    # print('item yang sama dengan {} include:\n'.format(item_title))
     for item in item_sim_dataset.sort_values(by = item_title, ascending = False).index[1:11]:
-        print('No. {}: {}'.format(count, item))
+        # print('No. {}: {}'.format(count, item))
         items.append(item)
         count +=1
     return items
@@ -67,4 +65,4 @@ def top_item(item_title):
 #         print('User #{0}, nilai similarity: {1:.2f}'.format(user, sim))
 #     return items
 
-print(top_users(3))
+# print(top_users(3))
