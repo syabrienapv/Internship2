@@ -1,0 +1,527 @@
+,userId,title,rating,kategori
+0,4,jagung,3.0,Bahan Utama
+1,1,jagung,0.5,Bahan Utama
+2,2,jagung,2.5,Bahan Utama
+3,1,jagung,3.5,Bahan Utama
+4,4,jagung,3.5,Bahan Utama
+5,2,jagung,4.0,Bahan Utama
+6,3,jagung,4.0,Bahan Utama
+7,1,jagung,3.0,Bahan Utama
+8,2,jagung,5.0,Bahan Utama
+9,2,jagung,4.0,Bahan Utama
+10,3,jagung,4.0,Bahan Utama
+11,2,jagung,3.0,Bahan Utama
+12,4,jagung,5.0,Bahan Utama
+13,2,jagung,4.0,Bahan Utama
+14,2,jagung,3.0,Bahan Utama
+15,2,jagung,5.0,Bahan Utama
+16,4,jagung,4.0,Bahan Utama
+17,1,jagung,3.0,Bahan Utama
+18,2,jagung,5.0,Bahan Utama
+19,3,jagung,3.0,Bahan Utama
+20,4,jagung,4.0,Bahan Utama
+21,1,tepung terigu,1.5,Bahan Utama
+22,1,tepung terigu,4.5,Bahan Utama
+23,2,tepung terigu,4.0,Bahan Utama
+24,4,tepung terigu,4.5,Bahan Utama
+25,3,tepung terigu,3.5,Bahan Utama
+26,3,tepung terigu,5.0,Bahan Utama
+27,2,tepung terigu,5.0,Bahan Utama
+28,3,tepung terigu,4.0,Bahan Utama
+29,1,tepung terigu,3.0,Bahan Utama
+30,2,tepung terigu,3.0,Bahan Utama
+31,4,tepung terigu,3.5,Bahan Utama
+32,3,tepung terigu,4.0,Bahan Utama
+33,2,tepung terigu,5.0,Bahan Utama
+34,2,tepung terigu,4.5,Bahan Utama
+35,3,tepung terigu,3.5,Bahan Utama
+36,3,tepung terigu,5.0,Bahan Utama
+37,1,telur,4.5,Bahan Utama
+38,3,telur,3.5,Bahan Utama
+39,4,telur,5.0,Bahan Utama
+40,1,telur,3.5,Bahan Utama
+41,4,telur,4.0,Bahan Utama
+42,2,telur,4.0,Bahan Utama
+43,1,telur,3.0,Bahan Utama
+44,4,telur,4.0,Bahan Utama
+45,4,telur,3.0,Bahan Utama
+46,4,telur,4.0,Bahan Utama
+47,1,telur,4.0,Bahan Utama
+48,4,telur,3.5,Bahan Utama
+49,2,daun ketumbar,5.0,Bumbu Dapur
+50,1,daun ketumbar,4.5,Bumbu Dapur
+51,3,daun ketumbar,4.0,Bumbu Dapur
+52,2,daun ketumbar,5.0,Bumbu Dapur
+53,3,daun ketumbar,4.0,Bumbu Dapur
+54,2,daun ketumbar,4.0,Bumbu Dapur
+55,3,daun ketumbar,5.0,Bumbu Dapur
+56,3,daun ketumbar,5.0,Bumbu Dapur
+57,3,daun ketumbar,5.0,Bumbu Dapur
+58,2,daun ketumbar,4.0,Bumbu Dapur
+59,3,daun ketumbar,1.0,Bumbu Dapur
+60,1,daun ketumbar,4.0,Bumbu Dapur
+61,2,daun ketumbar,3.0,Bumbu Dapur
+62,2,daun ketumbar,4.0,Bumbu Dapur
+63,1,daun ketumbar,3.5,Bumbu Dapur
+64,4,daun ketumbar,2.5,Bumbu Dapur
+65,3,daun ketumbar,3.5,Bumbu Dapur
+66,3,daun ketumbar,3.5,Bumbu Dapur
+67,1,daun ketumbar,5.0,Bumbu Dapur
+68,2,daun ketumbar,5.0,Bumbu Dapur
+69,1,daun ketumbar,3.5,Bumbu Dapur
+70,4,daun ketumbar,5.0,Bumbu Dapur
+71,3,daun ketumbar,5.0,Bumbu Dapur
+72,1,daun ketumbar,4.0,Bumbu Dapur
+73,2,daun ketumbar,4.0,Bumbu Dapur
+74,3,daun ketumbar,4.5,Bumbu Dapur
+75,3,kaldu ayam bubuk,3.5,Bumbu Dapur
+76,4,kaldu ayam bubuk,2.5,Bumbu Dapur
+77,2,kaldu ayam bubuk,4.0,Bumbu Dapur
+78,1,kaldu ayam bubuk,4.0,Bumbu Dapur
+79,3,kaldu ayam bubuk,4.0,Bumbu Dapur
+80,4,kaldu ayam bubuk,3.0,Bumbu Dapur
+81,3,kaldu ayam bubuk,5.0,Bumbu Dapur
+82,3,kaldu ayam bubuk,4.0,Bumbu Dapur
+83,3,kaldu ayam bubuk,5.0,Bumbu Dapur
+84,1,kaldu ayam bubuk,3.0,Bumbu Dapur
+85,2,kaldu ayam bubuk,5.0,Bumbu Dapur
+86,2,kaldu ayam bubuk,5.0,Bumbu Dapur
+87,1,kaldu ayam bubuk,0.5,Bumbu Dapur
+88,3,kaldu ayam bubuk,0.5,Bumbu Dapur
+89,3,kaldu ayam bubuk,3.5,Bumbu Dapur
+90,2,kaldu ayam bubuk,3.5,Bumbu Dapur
+91,4,kaldu ayam bubuk,4.0,Bumbu Dapur
+92,2,kaldu ayam bubuk,3.0,Bumbu Dapur
+93,3,kaldu ayam bubuk,5.0,Bumbu Dapur
+94,3,kaldu ayam bubuk,3.5,Bumbu Dapur
+95,4,cabai merah,0.5,Bahan Utama
+96,4,cabai merah,3.0,Bahan Utama
+97,4,cabai merah,3.0,Bahan Utama
+98,3,cabai merah,3.5,Bahan Utama
+99,2,cabai merah,1.5,Bahan Utama
+100,3,cabai merah,3.0,Bahan Utama
+101,4,cabai merah,3.0,Bahan Utama
+102,2,cabai merah,4.0,Bahan Utama
+103,4,cabai merah,3.0,Bahan Utama
+104,2,cabai merah,5.0,Bahan Utama
+105,4,cabai merah,4.0,Bahan Utama
+106,2,cabai merah,3.0,Bahan Utama
+107,4,cabai merah,5.0,Bahan Utama
+108,3,cabai merah,5.0,Bahan Utama
+109,1,cabai merah,3.0,Bahan Utama
+110,4,bawang merah,4.0,Bumbu Dapur
+111,3,bawang merah,5.0,Bumbu Dapur
+112,3,bawang merah,3.5,Bumbu Dapur
+113,1,bawang merah,4.5,Bumbu Dapur
+114,1,bawang merah,4.0,Bumbu Dapur
+115,2,bawang merah,4.0,Bumbu Dapur
+116,1,bawang merah,5.0,Bumbu Dapur
+117,2,bawang merah,4.0,Bumbu Dapur
+118,4,bawang merah,4.0,Bumbu Dapur
+119,4,bawang merah,2.0,Bumbu Dapur
+120,2,bawang merah,3.0,Bumbu Dapur
+121,4,bawang merah,4.0,Bumbu Dapur
+122,2,bawang merah,3.5,Bumbu Dapur
+123,1,bawang merah,5.0,Bumbu Dapur
+124,1,bawang putih,4.0,Bumbu Dapur
+125,2,bawang putih,3.5,Bumbu Dapur
+126,4,bawang putih,5.0,Bumbu Dapur
+127,4,bawang putih,3.0,Bumbu Dapur
+128,1,bawang putih,4.0,Bumbu Dapur
+129,1,bawang putih,5.0,Bumbu Dapur
+130,2,bawang putih,4.0,Bumbu Dapur
+131,3,bawang putih,4.0,Bumbu Dapur
+132,2,bawang putih,4.0,Bumbu Dapur
+133,4,bawang putih,5.0,Bumbu Dapur
+134,4,bawang putih,1.5,Bumbu Dapur
+135,2,bawang putih,3.0,Bumbu Dapur
+136,4,bawang putih,4.5,Bumbu Dapur
+137,2,garam,4.0,Bumbu Dapur
+138,4,garam,3.0,Bumbu Dapur
+139,1,garam,2.0,Bumbu Dapur
+140,2,garam,3.0,Bumbu Dapur
+141,2,garam,4.0,Bumbu Dapur
+142,4,garam,4.0,Bumbu Dapur
+143,1,garam,3.0,Bumbu Dapur
+144,1,garam,4.0,Bumbu Dapur
+145,3,garam,0.5,Bumbu Dapur
+146,2,garam,5.0,Bumbu Dapur
+147,3,garam,3.0,Bumbu Dapur
+148,2,garam,4.0,Bumbu Dapur
+149,3,lada,3.0,Bumbu Dapur
+150,3,lada,4.0,Bumbu Dapur
+151,4,lada,2.5,Bumbu Dapur
+152,1,lada,3.5,Bumbu Dapur
+153,3,lada,3.0,Bumbu Dapur
+154,1,lada,2.0,Bumbu Dapur
+155,3,lada,3.0,Bumbu Dapur
+156,4,lada,3.0,Bumbu Dapur
+157,3,lada,4.0,Bumbu Dapur
+158,2,lada,4.0,Bumbu Dapur
+159,4,lada,4.0,Bumbu Dapur
+160,3,lada,5.0,Bumbu Dapur
+161,3,lada,4.0,Bumbu Dapur
+162,1,lada,4.0,Bumbu Dapur
+163,3,lada,3.5,Bumbu Dapur
+164,3,lada,5.0,Bumbu Dapur
+165,3,lada,5.0,Bumbu Dapur
+166,4,lada,5.0,Bumbu Dapur
+167,2,lada,4.0,Bumbu Dapur
+168,2,lada,4.0,Bumbu Dapur
+169,3,gula,4.0,Bumbu Dapur
+170,4,gula,4.5,Bumbu Dapur
+171,2,gula,4.0,Bumbu Dapur
+172,3,gula,3.5,Bumbu Dapur
+173,2,gula,3.0,Bumbu Dapur
+174,2,gula,3.0,Bumbu Dapur
+175,2,gula,3.0,Bumbu Dapur
+176,4,gula,3.0,Bumbu Dapur
+177,2,gula,3.0,Bumbu Dapur
+178,2,gula,4.0,Bumbu Dapur
+179,4,gula,5.0,Bumbu Dapur
+180,4,gula,4.0,Bumbu Dapur
+181,3,gula,4.0,Bumbu Dapur
+182,1,gula,5.0,Bumbu Dapur
+183,3,gula,3.0,Bumbu Dapur
+184,4,gula,4.0,Bumbu Dapur
+185,3,gula,5.0,Bumbu Dapur
+186,2,gula,4.0,Bumbu Dapur
+187,4,gula,3.0,Bumbu Dapur
+188,4,gula,5.0,Bumbu Dapur
+189,2,gula,5.0,Bumbu Dapur
+190,1,gula,4.0,Bumbu Dapur
+191,4,ayam,4.0,Bahan Utama
+192,3,ayam,3.5,Bahan Utama
+193,4,ayam,3.5,Bahan Utama
+194,1,ayam,5.0,Bahan Utama
+195,2,ayam,4.0,Bahan Utama
+196,4,ayam,5.0,Bahan Utama
+197,4,ayam,4.0,Bahan Utama
+198,1,ayam,4.0,Bahan Utama
+199,3,ayam,3.0,Bahan Utama
+200,1,ayam,4.0,Bahan Utama
+201,1,ayam,5.0,Bahan Utama
+202,1,ayam,2.0,Bahan Utama
+203,3,ayam,3.0,Bahan Utama
+204,1,ayam,4.5,Bahan Utama
+205,1,ayam,4.0,Bahan Utama
+206,1,ayam,4.0,Bahan Utama
+207,2,ayam,5.0,Bahan Utama
+208,1,ayam,5.0,Bahan Utama
+209,2,ayam,4.0,Bahan Utama
+210,3,tahu,3.5,Bahan Utama
+211,4,tahu,4.5,Bahan Utama
+212,3,tahu,3.0,Bahan Utama
+213,3,tahu,4.5,Bahan Utama
+214,2,tahu,3.0,Bahan Utama
+215,1,tahu,4.0,Bahan Utama
+216,4,tahu,3.0,Bahan Utama
+217,3,tahu,5.0,Bahan Utama
+218,1,tahu,4.0,Bahan Utama
+219,3,tahu,5.0,Bahan Utama
+220,3,tahu,3.5,Bahan Utama
+221,4,tahu,2.5,Bahan Utama
+222,4,tahu,5.0,Bahan Utama
+223,1,tahu,5.0,Bahan Utama
+224,1,tahu,5.0,Bahan Utama
+225,3,tahu,5.0,Bahan Utama
+226,1,tahu,3.0,Bahan Utama
+227,1,tahu,1.0,Bahan Utama
+228,1,tahu,4.5,Bahan Utama
+229,1,tahu,3.5,Bahan Utama
+230,4,tahu,5.0,Bahan Utama
+231,4,tahu,4.5,Bahan Utama
+232,2,tahu,4.5,Bahan Utama
+233,1,kemiri,3.5,Bumbu Dapur
+234,2,kemiri,4.5,Bumbu Dapur
+235,3,kemiri,4.0,Bumbu Dapur
+236,3,kemiri,4.0,Bumbu Dapur
+237,3,kemiri,5.0,Bumbu Dapur
+238,4,kemiri,4.0,Bumbu Dapur
+239,2,kemiri,5.0,Bumbu Dapur
+240,3,kemiri,3.5,Bumbu Dapur
+241,1,kemiri,4.0,Bumbu Dapur
+242,3,kemiri,4.5,Bumbu Dapur
+243,4,kemiri,5.0,Bumbu Dapur
+244,1,kemiri,5.0,Bumbu Dapur
+245,2,kemiri,2.5,Bumbu Dapur
+246,1,kemiri,5.0,Bumbu Dapur
+247,3,kemiri,5.0,Bumbu Dapur
+248,3,kemiri,4.0,Bumbu Dapur
+249,1,kemiri,5.0,Bumbu Dapur
+250,1,kemiri,3.5,Bumbu Dapur
+251,2,kunyit ,4.5,Bumbu Dapur
+252,3,kunyit ,3.5,Bumbu Dapur
+253,3,kunyit ,1.5,Bumbu Dapur
+254,1,kunyit ,3.5,Bumbu Dapur
+255,3,kunyit ,0.5,Bumbu Dapur
+256,1,kunyit ,2.0,Bumbu Dapur
+257,2,kunyit ,5.0,Bumbu Dapur
+258,2,kunyit ,4.0,Bumbu Dapur
+259,3,kunyit ,5.0,Bumbu Dapur
+260,2,kunyit ,5.0,Bumbu Dapur
+261,4,kunyit ,5.0,Bumbu Dapur
+262,2,kunyit ,0.5,Bumbu Dapur
+263,2,kunyit ,3.5,Bumbu Dapur
+264,3,kunyit ,5.0,Bumbu Dapur
+265,4,kunyit ,4.0,Bumbu Dapur
+266,2,kunyit ,4.0,Bumbu Dapur
+267,3,kunyit ,3.0,Bumbu Dapur
+268,2,kunyit ,4.0,Bumbu Dapur
+269,2,jahe,4.0,Bumbu Dapur
+270,4,jahe,4.5,Bumbu Dapur
+271,4,jahe,5.0,Bumbu Dapur
+272,3,jahe,3.5,Bumbu Dapur
+273,2,jahe,3.0,Bumbu Dapur
+274,4,jahe,5.0,Bumbu Dapur
+275,2,jahe,4.0,Bumbu Dapur
+276,2,jahe,5.0,Bumbu Dapur
+277,4,jahe,4.0,Bumbu Dapur
+278,2,jahe,3.5,Bumbu Dapur
+279,4,jahe,2.0,Bumbu Dapur
+280,4,jahe,2.5,Bumbu Dapur
+281,2,jahe,3.5,Bumbu Dapur
+282,3,jahe,5.0,Bumbu Dapur
+283,2,jahe,5.0,Bumbu Dapur
+284,1,jahe,4.0,Bumbu Dapur
+285,4,jahe,3.5,Bumbu Dapur
+286,4,jahe,2.0,Bumbu Dapur
+287,3,sereh,3.0,Bumbu Dapur
+288,3,sereh,5.0,Bumbu Dapur
+289,1,sereh,4.0,Bumbu Dapur
+290,2,sereh,5.0,Bumbu Dapur
+291,2,sereh,3.0,Bumbu Dapur
+292,4,sereh,4.0,Bumbu Dapur
+293,2,sereh,5.0,Bumbu Dapur
+294,4,sereh,3.0,Bumbu Dapur
+295,2,sereh,5.0,Bumbu Dapur
+296,3,sereh,5.0,Bumbu Dapur
+297,3,sereh,1.5,Bumbu Dapur
+298,4,sereh,5.0,Bumbu Dapur
+299,3,sereh,1.5,Bumbu Dapur
+300,1,sereh,2.5,Bumbu Dapur
+301,1,sereh,4.5,Bumbu Dapur
+302,3,sereh,5.0,Bumbu Dapur
+303,2,sereh,4.0,Bumbu Dapur
+304,4,sereh,4.0,Bumbu Dapur
+305,3,sereh,3.0,Bumbu Dapur
+306,1,sereh,4.0,Bumbu Dapur
+307,4,lengkuas,4.0,Bumbu Dapur
+308,4,lengkuas,4.0,Bumbu Dapur
+309,3,lengkuas,4.0,Bumbu Dapur
+310,4,lengkuas,4.0,Bumbu Dapur
+311,1,lengkuas,5.0,Bumbu Dapur
+312,4,lengkuas,5.0,Bumbu Dapur
+313,1,lengkuas,4.0,Bumbu Dapur
+314,2,lengkuas,4.0,Bumbu Dapur
+315,3,lengkuas,4.0,Bumbu Dapur
+316,4,lengkuas,5.0,Bumbu Dapur
+317,2,daun salam,0.5,Bumbu Dapur
+318,3,daun salam,4.0,Bumbu Dapur
+319,1,daun salam,3.5,Bumbu Dapur
+320,2,daun salam,4.5,Bumbu Dapur
+321,1,daun salam,4.0,Bumbu Dapur
+322,3,daun salam,3.0,Bumbu Dapur
+323,1,daun salam,4.0,Bumbu Dapur
+324,4,daun salam,4.0,Bumbu Dapur
+325,1,daun salam,4.0,Bumbu Dapur
+326,4,daun salam,4.0,Bumbu Dapur
+327,4,daun salam,4.0,Bumbu Dapur
+328,2,daun salam,3.5,Bumbu Dapur
+329,4,daun salam,3.5,Bumbu Dapur
+330,3,daun salam,4.0,Bumbu Dapur
+331,3,daun salam,4.0,Bumbu Dapur
+332,4,daun salam,5.0,Bumbu Dapur
+333,2,daun salam,4.0,Bumbu Dapur
+334,3,daun salam,3.5,Bumbu Dapur
+335,3,daun salam,4.0,Bumbu Dapur
+336,2,tempe,4.0,Bahan Utama
+337,4,tempe,2.5,Bahan Utama
+338,4,tempe,4.5,Bahan Utama
+339,3,tempe,4.5,Bahan Utama
+340,4,tempe,4.5,Bahan Utama
+341,4,tempe,5.0,Bahan Utama
+342,1,tempe,5.0,Bahan Utama
+343,2,tempe,3.0,Bahan Utama
+344,3,tempe,4.0,Bahan Utama
+345,4,tempe,4.0,Bahan Utama
+346,1,tempe,4.0,Bahan Utama
+347,1,tempe,3.0,Bahan Utama
+348,4,tempe,5.0,Bahan Utama
+349,1,tempe,4.5,Bahan Utama
+350,4,tempe,4.5,Bahan Utama
+351,1,tempe,5.0,Bahan Utama
+352,1,tempe,5.0,Bahan Utama
+353,3,kacang panjang,4.0,Bahan Utama
+354,3,kacang panjang,5.0,Bahan Utama
+355,4,kacang panjang,4.0,Bahan Utama
+356,2,kacang panjang,4.0,Bahan Utama
+357,1,kacang panjang,3.0,Bahan Utama
+358,4,kacang panjang,4.0,Bahan Utama
+359,3,kacang panjang,5.0,Bahan Utama
+360,2,kacang panjang,5.0,Bahan Utama
+361,3,kacang panjang,5.0,Bahan Utama
+362,2,kacang panjang,4.0,Bahan Utama
+363,1,kacang panjang,3.0,Bahan Utama
+364,4,kacang panjang,4.5,Bahan Utama
+365,4,kacang panjang,5.0,Bahan Utama
+366,3,kacang panjang,5.0,Bahan Utama
+367,1,saos tiram,5.0,Bumbu Dapur
+368,4,saos tiram,4.0,Bumbu Dapur
+369,2,saos tiram,4.5,Bumbu Dapur
+370,3,saos tiram,4.5,Bumbu Dapur
+371,2,saos tiram,4.5,Bumbu Dapur
+372,3,saos tiram,4.0,Bumbu Dapur
+373,4,saos tiram,4.0,Bumbu Dapur
+374,3,saos tiram,5.0,Bumbu Dapur
+375,4,saos tiram,3.0,Bumbu Dapur
+376,4,saos tiram,4.0,Bumbu Dapur
+377,4,saos tiram,5.0,Bumbu Dapur
+378,2,saos tiram,3.0,Bumbu Dapur
+379,4,saos tiram,4.0,Bumbu Dapur
+380,3,saos tiram,4.0,Bumbu Dapur
+381,3,saos tiram,4.0,Bumbu Dapur
+382,2,saos tiram,5.0,Bumbu Dapur
+383,2,saos tiram,5.0,Bumbu Dapur
+384,4,saos tiram,4.0,Bumbu Dapur
+385,2,saos tiram,2.0,Bumbu Dapur
+386,2,saos tiram,4.0,Bumbu Dapur
+387,4,saos tiram,4.0,Bumbu Dapur
+388,3,saos tiram,1.0,Bumbu Dapur
+389,4,saos tiram,3.5,Bumbu Dapur
+390,1,saos tiram,2.5,Bumbu Dapur
+391,4,saos tiram,4.0,Bumbu Dapur
+392,4,saos tiram,4.0,Bumbu Dapur
+393,2,kecap,4.0,Bumbu Dapur
+394,2,kecap,3.0,Bumbu Dapur
+395,1,kecap,5.0,Bumbu Dapur
+396,1,kecap,4.5,Bumbu Dapur
+397,4,kecap,4.0,Bumbu Dapur
+398,3,kecap,4.5,Bumbu Dapur
+399,3,kecap,1.5,Bumbu Dapur
+400,2,kecap,3.0,Bumbu Dapur
+401,3,kecap,5.0,Bumbu Dapur
+402,1,kecap,3.0,Bumbu Dapur
+403,4,kecap,5.0,Bumbu Dapur
+404,3,kecap,5.0,Bumbu Dapur
+405,4,kecap,5.0,Bumbu Dapur
+406,4,kecap,4.0,Bumbu Dapur
+407,3,kecap,4.0,Bumbu Dapur
+408,1,kecap,3.0,Bumbu Dapur
+409,1,kecap,1.0,Bumbu Dapur
+410,3,kecap,4.0,Bumbu Dapur
+411,4,kecap,4.5,Bumbu Dapur
+412,2,kecap,4.0,Bumbu Dapur
+413,2,kecap,2.5,Bumbu Dapur
+414,3,kecap,2.5,Bumbu Dapur
+415,3,kecap,5.0,Bumbu Dapur
+416,4,kaldu bubuk,1.5,Bumbu Dapur
+417,2,kaldu bubuk,4.0,Bumbu Dapur
+418,1,kaldu bubuk,4.5,Bumbu Dapur
+419,3,kaldu bubuk,5.0,Bumbu Dapur
+420,3,kaldu bubuk,4.5,Bumbu Dapur
+421,2,kaldu bubuk,4.0,Bumbu Dapur
+422,2,kaldu bubuk,5.0,Bumbu Dapur
+423,3,kaldu bubuk,3.0,Bumbu Dapur
+424,3,kaldu bubuk,3.0,Bumbu Dapur
+425,2,kaldu bubuk,4.0,Bumbu Dapur
+426,3,kaldu bubuk,4.0,Bumbu Dapur
+427,2,kaldu bubuk,4.0,Bumbu Dapur
+428,3,kaldu bubuk,5.0,Bumbu Dapur
+429,4,kaldu bubuk,3.0,Bumbu Dapur
+430,1,kaldu bubuk,4.5,Bumbu Dapur
+431,1,kaldu bubuk,1.0,Bumbu Dapur
+432,3,kaldu bubuk,3.5,Bumbu Dapur
+433,3,kangkung,4.5,Bahan Utama
+434,2,kangkung,4.0,Bahan Utama
+435,4,kangkung,3.0,Bahan Utama
+436,2,kangkung,4.0,Bahan Utama
+437,1,kangkung,3.0,Bahan Utama
+438,4,kangkung,3.0,Bahan Utama
+439,3,kangkung,3.0,Bahan Utama
+440,3,kangkung,4.0,Bahan Utama
+441,4,kangkung,4.0,Bahan Utama
+442,1,kangkung,5.0,Bahan Utama
+443,3,kangkung,4.0,Bahan Utama
+444,2,kangkung,3.0,Bahan Utama
+445,1,kangkung,1.0,Bahan Utama
+446,4,kangkung,4.0,Bahan Utama
+447,2,kangkung,4.0,Bahan Utama
+448,3,kangkung,4.5,Bahan Utama
+449,1,kangkung,4.5,Bahan Utama
+450,4,cabe keriting,1.5,Bahan Utama
+451,3,cabe keriting,5.0,Bahan Utama
+452,4,cabe keriting,5.0,Bahan Utama
+453,2,cabe keriting,4.0,Bahan Utama
+454,4,cabe keriting,5.0,Bahan Utama
+455,1,cabe keriting,3.0,Bahan Utama
+456,4,cabe keriting,4.0,Bahan Utama
+457,3,cabe keriting,2.0,Bahan Utama
+458,4,cabe keriting,4.0,Bahan Utama
+459,1,cabe keriting,4.0,Bahan Utama
+460,1,cabe keriting,5.0,Bahan Utama
+461,4,cabe keriting,3.5,Bahan Utama
+462,3,cabe keriting,4.0,Bahan Utama
+463,4,cabe keriting,3.0,Bahan Utama
+464,3,cabe keriting,4.0,Bahan Utama
+465,1,cabe keriting,3.5,Bahan Utama
+466,1,cabe keriting,5.0,Bahan Utama
+467,1,cabe keriting,5.0,Bahan Utama
+468,1,cabe keriting,5.0,Bahan Utama
+469,2,jeruk nipis,5.0,Bahan Utama
+470,1,jeruk nipis,4.0,Bahan Utama
+471,3,jeruk nipis,5.0,Bahan Utama
+472,1,jeruk nipis,3.0,Bahan Utama
+473,3,jeruk nipis,4.0,Bahan Utama
+474,1,jeruk nipis,5.0,Bahan Utama
+475,2,jeruk nipis,0.5,Bahan Utama
+476,2,jeruk nipis,2.0,Bahan Utama
+477,2,jeruk nipis,3.0,Bahan Utama
+478,3,jeruk nipis,3.5,Bahan Utama
+479,3,jeruk nipis,5.0,Bahan Utama
+480,3,jeruk nipis,0.5,Bahan Utama
+481,1,cabe rawit,4.0,Bahan Utama
+482,2,cabe rawit,3.5,Bahan Utama
+483,3,cabe rawit,5.0,Bahan Utama
+484,3,cabe rawit,3.5,Bahan Utama
+485,3,cabe rawit,4.0,Bahan Utama
+486,2,cabe rawit,5.0,Bahan Utama
+487,1,cabe rawit,4.0,Bahan Utama
+488,4,cabe rawit,4.0,Bahan Utama
+489,1,cabe rawit,5.0,Bahan Utama
+490,1,cabe rawit,5.0,Bahan Utama
+491,1,cabe rawit,4.0,Bahan Utama
+492,2,cabe rawit,4.0,Bahan Utama
+493,2,cabe rawit,2.0,Bahan Utama
+494,4,cabe rawit,5.0,Bahan Utama
+495,1,cabe rawit,3.5,Bahan Utama
+496,2,cabe rawit,4.5,Bahan Utama
+497,2,cabe rawit,3.5,Bahan Utama
+498,4,cabe rawit,5.0,Bahan Utama
+499,1,cabe rawit,3.5,Bahan Utama
+500,3,tomat,4.0,Bahan Utama
+501,2,tomat,0.5,Bahan Utama
+502,4,tomat,4.5,Bahan Utama
+503,1,tomat,4.5,Bahan Utama
+504,2,tomat,4.0,Bahan Utama
+505,1,tomat,0.5,Bahan Utama
+506,4,tomat,4.0,Bahan Utama
+507,2,tomat,3.0,Bahan Utama
+508,1,tomat,4.0,Bahan Utama
+509,2,tomat,3.0,Bahan Utama
+510,4,tomat,3.0,Bahan Utama
+511,2,tomat,5.0,Bahan Utama
+512,1,tomat,5.0,Bahan Utama
+513,4,tomat,4.0,Bahan Utama
+514,3,tomat,4.0,Bahan Utama
+515,4,tomat,3.0,Bahan Utama
+516,2,tomat,5.0,Bahan Utama
+517,3,tomat,5.0,Bahan Utama
+518,2,tomat,4.0,Bahan Utama
+519,2,tomat,3.5,Bahan Utama
+520,1,tomat,4.0,Bahan Utama
+521,3,tomat,5.0,Bahan Utama
+522,3,tomat,5.0,Bahan Utama
+523,4,tomat,4.5,Bahan Utama
+524,2,tomat,2.0,Bahan Utama
+525,1,tomat,5.0,Bahan Utama
