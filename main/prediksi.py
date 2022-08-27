@@ -50,19 +50,3 @@ def top_item(item_title):
         count +=1
     return items
 
-# def top_users(user):
-#     matriks_norm = norm_matrix()
-#     user_sim_dataset = user_similarity()
-    
-#     if user not in matriks_norm.columns:
-#         return('tdak ada data tersedia di user {}'.format(user))
-    
-#     print('user paling mirip:\n')
-#     sim_values = user_sim_dataset.sort_values(by=user, ascending=False).loc[:,user].tolist()[1:11]
-#     sim_users = user_sim_dataset.sort_values(by=user, ascending=False).index[1:11]
-#     zipped = zip(sim_users, sim_values,)
-#     for user, sim in zipped:
-#         print('User #{0}, nilai similarity: {1:.2f}'.format(user, sim))
-#     return items
-
-# print(top_users(3))
