@@ -8,7 +8,7 @@ import operator
 import os
 
 matrix_path = os.getcwd() + '\\main\\datas\\resep_sparse_matrix.npz'
-dataset_path = os.getcwd() + '\\main\\datas\\data.csv'
+dataset_path = os.getcwd() + '\\main\\datas\\dataset.csv'
 
 def read_sparse():
     sparse_matrix = sparse.load_npz(matrix_path)
@@ -20,7 +20,7 @@ def read_dataset():
 
 def norm_matrix():
     dataset = read_dataset()
-    matriks = dataset.pivot_table(index=['userId'], columns=['title'], values='rating')
+    matriks = dataset.pivot_table(index=['user_id'], columns=['title'], values='user_rating')
     matriks_norm = matriks.apply(lambda x: (x-np.mean(x))/(np.max(x)-np.min(x)), axis=1)
     matriks_norm.fillna(0, inplace=True)
     matriks_norm = matriks_norm.T
